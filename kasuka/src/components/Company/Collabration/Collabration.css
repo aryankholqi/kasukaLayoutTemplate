@@ -1,0 +1,16 @@
+.collabs-box {
+    margin-top: 4rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+.collab-img {
+    width: 10%;
+}
+.collab-img-img {
+    width: 100%;
+    filter: grayscale(1);
+    transition: 0.4s;
+}
+.collab-img-img:hover {
+    filter: grayscale(0);
+}

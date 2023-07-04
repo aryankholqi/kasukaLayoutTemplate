@@ -1,0 +1,17 @@
+.links-section {
+    background-color: #F5F5F5;
+}
+.work-title {
+    font-weight: lighter;
+}
+.home-link {
+    transition: 0.26s;
+    color: #ffc107;
+}
+.product-detail {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    text-align: start;
+}
+.extra-text {
+    text-align: start;
+}

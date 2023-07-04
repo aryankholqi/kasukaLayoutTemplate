@@ -1,0 +1,21 @@
+.team-member-box {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 22%;
+}
+.social-medias {
+    position: relative;
+    top: -30%;
+}
+.social-media-btn {
+    border: none;
+    background-color: #EEEEEE;
+    border-radius: 0.5rem;
+    transition: 0.3s;
+}
+.social-media-icon {
+    font-size: 1.5rem;
+    color: #252525;
+}
+.social-media-btn:hover {
+    background-color: #ffc107;
+}

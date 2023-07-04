@@ -1,0 +1,22 @@
+.quotation-section {
+    background-image: url("../../../public/images/Quotation/pic1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.profile {
+    width: 8%;
+    margin: 0 auto;
+    padding-top: 3rem;
+}
+.profile-img {
+    width: 100%;
+}
+.full-name {
+    color: white;
+    margin-top: 1rem;
+}
+.quote {
+    color: white;
+    margin: 1rem 0;
+    padding-bottom: 3rem;
+}

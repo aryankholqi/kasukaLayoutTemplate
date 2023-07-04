@@ -1,0 +1,19 @@
+.container {
+    margin: 4rem auto;
+}
+.ad-box {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+.ad-context {
+    text-align: start;
+    margin-right: 1rem;
+
+}
+.ad-title {
+    font-size: 1.3rem;
+}
+i {
+    font-size: 2rem;
+}

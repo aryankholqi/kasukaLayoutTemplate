@@ -1,0 +1,26 @@
+.google-map {
+    height: 50vh;
+}
+.contact-btn {
+    background-color: #ffc107;
+    border-radius: 0.5rem;
+    border: none;
+}
+.contact-icon {
+    color: #252525;
+}
+input,textarea {
+    transition: 0.3s;
+    border: 1px solid #EEEEEE;
+}
+input:focus,textarea:focus {
+    outline: 1px solid #ffc107;
+}
+.contact-submit-btn {
+    background-color: #ffc107;
+    color: #252525;
+    transition: 0.3s;
+}
+.contact-submit-btn:hover {
+    opacity: 0.9;
+}

@@ -1,0 +1,31 @@
+.header-img {
+    width: 100%;
+    background-image: url("../../assets/images/Header1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header-context {
+    color: white;
+    margin-top: 5rem;
+}
+.header-title {
+    font-size: 3rem;
+}
+.header-sub-title {
+    margin-top: 1.5rem;
+    font-size: 1.5rem;
+}
+.header-title-brand {
+    color: #ffc107;
+    font-weight: bolder;
+    font-size: 3rem;
+}
+.header-boxes {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 5.5rem 0;
+    width: 75%;
+    margin: 0 auto;
+}

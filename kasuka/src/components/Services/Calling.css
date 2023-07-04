@@ -1,0 +1,25 @@
+.calling-box {
+    background-image: url("../../../public/images/pic2.jpg");
+}
+.calling-title {
+    color: white;
+    padding-top: 3rem;
+}
+.calling-text {
+    color: white;
+    width: 80%;
+    margin: 1.5rem auto;
+    line-height: 1.9rem;
+}
+.calling-btn {
+    margin: 1.5rem 0;
+    border: 2px solid white;
+    color: white;
+    background-color: transparent;
+    transition: 0.4s;
+}
+.calling-btn:hover {
+    border: none;
+    background-color: #ffc107;
+    color: #252525;
+}
